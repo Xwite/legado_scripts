@@ -16,6 +16,7 @@ eval(String(java.cacheFile(script_remote_url)))
 [解析搜索](/docs/parseSearch.md)
 [解析目录](/docs/parseChapterList.md)
 [解析发现](/docs/parseExplore.md)
+[解析字典](/docs/parseDict.md)
 ## 扩展函数
 [书源变量Map支持](/source/sourceVariable.js)
 [链接扩展](/source/legadoUrl.js)
